@@ -1,1 +1,0 @@
-# Script pra validar valores
